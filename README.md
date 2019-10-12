@@ -1,2 +1,1 @@
-# inteclix.github.io
-Created with CodeSandbox
+# inteclix for web.dev
